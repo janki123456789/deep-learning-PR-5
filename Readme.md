@@ -24,10 +24,6 @@ This project uses recurrent neural networks to predict the sentiment of movie re
 - **Problem type:** Binary text classification
 - **Output classes:** Positive and Negative
 
-## 📂 Dataset
-
-- [IMDB_Dataset.csv](IMDB_Dataset.csv)
-
 ## 🧹 Data Preprocessing
 
 The notebook prepares raw text for the models using these steps:
