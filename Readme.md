@@ -26,7 +26,7 @@ This project uses recurrent neural networks to predict the sentiment of movie re
 
 ## 📂 Dataset
 
-- [IMDB Dataset.csv](IMDB Dataset.csv)
+- [IMDB_Dataset.csv](IMDB_Dataset.csv)
 
 ## 🧹 Data Preprocessing
 
