@@ -1,0 +1,13 @@
+# IMDB Sentiment Analysis (ANN / SimpleRNN / LSTM / GRU) - PR-5
+# Notebook Python version: 3.13
+
+numpy>=2.0
+pandas>=2.2
+matplotlib>=3.8
+seaborn>=0.13
+scikit-learn>=1.5
+tensorflow>=2.20
+
+# Notebook runtime
+jupyter
+ipykernel
